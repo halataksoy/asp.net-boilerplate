@@ -1,0 +1,219 @@
+DEBUG 2023-04-11 14:01:33,395 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2023-04-11 14:01:33,657 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2023-04-11 14:01:33,700 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Xelat.Project.Web.Host.Startup.ProjectWebHostModule, Xelat.Project.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-11 14:01:33,704 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Xelat.Project.ProjectWebCoreModule, Xelat.Project.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-11 14:01:33,704 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Xelat.Project.ProjectApplicationModule, Xelat.Project.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-11 14:01:33,705 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Xelat.Project.ProjectCoreModule, Xelat.Project.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-11 14:01:33,706 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-11 14:01:33,706 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-11 14:01:33,707 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-11 14:01:33,708 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-11 14:01:33,710 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Xelat.Project.EntityFrameworkCore.ProjectEntityFrameworkModule, Xelat.Project.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-11 14:01:33,712 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-11 14:01:33,715 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-11 14:01:33,716 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-11 14:01:33,718 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-11 14:01:33,719 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-11 14:01:33,720 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-11 14:01:33,728 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2023-04-11 14:01:33,952 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-04-11 14:01:33,952 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-04-11 14:01:33,952 [1    ] o.Configuration.LanguageManagementConfig - Converted Project (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-04-11 14:01:33,952 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-04-11 14:01:34,875 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Xelat.Project.EntityFrameworkCore.ProjectDbContext, Xelat.Project.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-11 14:01:35,460 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2023-04-11 14:01:35,506 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2023-04-11 14:01:35,532 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2023-04-11 14:01:35,543 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Project
+DEBUG 2023-04-11 14:01:35,551 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2023-04-11 14:01:35,577 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2023-04-11 14:01:35,584 [1    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[Xelat.Project.MultiTenancy.Tenant, Xelat.Project.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Xelat.Project.Authorization.Users.User, Xelat.Project.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2023-04-11 14:01:35,693 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 9 classes define auto mapping attributes
+DEBUG 2023-04-11 14:01:35,693 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Xelat.Project.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2023-04-11 14:01:35,701 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Xelat.Project.Users.Dto.CreateUserDto
+DEBUG 2023-04-11 14:01:35,703 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Xelat.Project.Users.Dto.UserDto
+DEBUG 2023-04-11 14:01:35,704 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Xelat.Project.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2023-04-11 14:01:35,705 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Xelat.Project.Sessions.Dto.UserLoginInfoDto
+DEBUG 2023-04-11 14:01:35,705 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Xelat.Project.Roles.Dto.PermissionDto
+DEBUG 2023-04-11 14:01:35,705 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Xelat.Project.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2023-04-11 14:01:35,706 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Xelat.Project.MultiTenancy.Dto.TenantDto
+DEBUG 2023-04-11 14:01:35,706 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Xelat.Project.Customers.Dto.CustomerDto
+DEBUG 2023-04-13 21:24:00,570 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2023-04-13 21:24:00,784 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2023-04-13 21:24:00,809 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Xelat.Project.Web.Host.Startup.ProjectWebHostModule, Xelat.Project.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-13 21:24:00,814 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Xelat.Project.ProjectWebCoreModule, Xelat.Project.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-13 21:24:00,815 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Xelat.Project.ProjectApplicationModule, Xelat.Project.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-13 21:24:00,815 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Xelat.Project.ProjectCoreModule, Xelat.Project.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-13 21:24:00,816 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-13 21:24:00,817 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-13 21:24:00,818 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-13 21:24:00,819 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-13 21:24:00,819 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Xelat.Project.EntityFrameworkCore.ProjectEntityFrameworkModule, Xelat.Project.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-13 21:24:00,820 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-13 21:24:00,821 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-13 21:24:00,821 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-13 21:24:00,822 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-13 21:24:00,822 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-13 21:24:00,823 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-13 21:24:00,827 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2023-04-13 21:24:00,990 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-04-13 21:24:00,990 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-04-13 21:24:00,990 [1    ] o.Configuration.LanguageManagementConfig - Converted Project (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-04-13 21:24:00,990 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2023-04-13 21:24:01,533 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Xelat.Project.EntityFrameworkCore.ProjectDbContext, Xelat.Project.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-04-13 21:24:01,794 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2023-04-13 21:24:01,823 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2023-04-13 21:24:01,837 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2023-04-13 21:24:01,843 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Project
+DEBUG 2023-04-13 21:24:01,848 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2023-04-13 21:24:01,868 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2023-04-13 21:24:01,877 [1    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[Xelat.Project.MultiTenancy.Tenant, Xelat.Project.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Xelat.Project.Authorization.Users.User, Xelat.Project.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2023-04-13 21:24:01,961 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 9 classes define auto mapping attributes
+DEBUG 2023-04-13 21:24:01,961 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Xelat.Project.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2023-04-13 21:24:01,968 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Xelat.Project.Users.Dto.CreateUserDto
+DEBUG 2023-04-13 21:24:01,969 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Xelat.Project.Users.Dto.UserDto
+DEBUG 2023-04-13 21:24:01,969 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Xelat.Project.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2023-04-13 21:24:01,969 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Xelat.Project.Sessions.Dto.UserLoginInfoDto
+DEBUG 2023-04-13 21:24:01,970 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Xelat.Project.Roles.Dto.PermissionDto
+DEBUG 2023-04-13 21:24:01,970 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Xelat.Project.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2023-04-13 21:24:01,970 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Xelat.Project.MultiTenancy.Dto.TenantDto
+DEBUG 2023-04-13 21:24:01,970 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Xelat.Project.Customers.Dto.CustomerDto
+FATAL 2023-04-13 21:24:14,883 [1    ] Abp.AbpBootstrapper                      - System.ArgumentException: Option 'trusted_connection' not supported.
+   at MySqlConnector.MySqlConnectionStringOption.GetOptionForKey(String key) in /_/src/MySqlConnector/MySqlConnectionStringBuilder.cs:line 940
+   at MySqlConnector.MySqlConnectionStringBuilder.set_Item(String key, Object value) in /_/src/MySqlConnector/MySqlConnectionStringBuilder.cs:line 820
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at MySqlConnector.MySqlConnectionStringBuilder..ctor(String connectionString) in /_/src/MySqlConnector/MySqlConnectionStringBuilder.cs:line 29
+   at Microsoft.EntityFrameworkCore.ServerVersion.AutoDetect(String connectionString)
+   at Xelat.Project.EntityFrameworkCore.ProjectDbContextConfigurer.Configure(DbContextOptionsBuilder`1 builder, String connectionString) in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/EntityFrameworkCore/ProjectDbContextConfigurer.cs:line 12
+   at Xelat.Project.EntityFrameworkCore.ProjectEntityFrameworkModule.<>c.<PreInitialize>b__8_0(AbpDbContextConfiguration`1 options) in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/EntityFrameworkCore/ProjectEntityFrameworkModule.cs:line 31
+   at Abp.EntityFrameworkCore.Configuration.AbpDbContextConfigurerAction`1.Configure(AbpDbContextConfiguration`1 configuration)
+   at Abp.EntityFrameworkCore.DefaultDbContextResolver.CreateOptions[TDbContext](String connectionString, DbConnection existingConnection)
+   at Abp.EntityFrameworkCore.DefaultDbContextResolver.Resolve[TDbContext](String connectionString, DbConnection existingConnection)
+   at Abp.EntityFrameworkCore.Uow.DbContextEfCoreTransactionStrategy.CreateDbContext[TDbContext](String connectionString, IDbContextResolver dbContextResolver)
+   at Abp.EntityFrameworkCore.Uow.EfCoreUnitOfWork.GetOrCreateDbContext[TDbContext](Nullable`1 multiTenancySide, String name)
+   at Abp.EntityFrameworkCore.Uow.UnitOfWorkExtensions.GetDbContext[TDbContext](IActiveUnitOfWork unitOfWork, Nullable`1 multiTenancySide, String name)
+   at Xelat.Project.EntityFrameworkCore.Seed.SeedHelper.WithDbContext[TDbContext](IIocResolver iocResolver, Action`1 contextAction) in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/EntityFrameworkCore/Seed/SeedHelper.cs:line 39
+   at Xelat.Project.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(IIocResolver iocResolver) in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/EntityFrameworkCore/Seed/SeedHelper.cs:line 17
+   at Xelat.Project.EntityFrameworkCore.ProjectEntityFrameworkModule.PostInitialize() in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/EntityFrameworkCore/ProjectEntityFrameworkModule.cs:line 46
+   at Abp.Modules.AbpModuleManager.<>c.<StartModules>b__15_2(AbpModuleInfo module)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Abp.Modules.AbpModuleManager.StartModules()
+   at Abp.AbpBootstrapper.Initialize()
+System.ArgumentException: Option 'trusted_connection' not supported.
+   at MySqlConnector.MySqlConnectionStringOption.GetOptionForKey(String key) in /_/src/MySqlConnector/MySqlConnectionStringBuilder.cs:line 940
+   at MySqlConnector.MySqlConnectionStringBuilder.set_Item(String key, Object value) in /_/src/MySqlConnector/MySqlConnectionStringBuilder.cs:line 820
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at MySqlConnector.MySqlConnectionStringBuilder..ctor(String connectionString) in /_/src/MySqlConnector/MySqlConnectionStringBuilder.cs:line 29
+   at Microsoft.EntityFrameworkCore.ServerVersion.AutoDetect(String connectionString)
+   at Xelat.Project.EntityFrameworkCore.ProjectDbContextConfigurer.Configure(DbContextOptionsBuilder`1 builder, String connectionString) in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/EntityFrameworkCore/ProjectDbContextConfigurer.cs:line 12
+   at Xelat.Project.EntityFrameworkCore.ProjectEntityFrameworkModule.<>c.<PreInitialize>b__8_0(AbpDbContextConfiguration`1 options) in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/EntityFrameworkCore/ProjectEntityFrameworkModule.cs:line 31
+   at Abp.EntityFrameworkCore.Configuration.AbpDbContextConfigurerAction`1.Configure(AbpDbContextConfiguration`1 configuration)
+   at Abp.EntityFrameworkCore.DefaultDbContextResolver.CreateOptions[TDbContext](String connectionString, DbConnection existingConnection)
+   at Abp.EntityFrameworkCore.DefaultDbContextResolver.Resolve[TDbContext](String connectionString, DbConnection existingConnection)
+   at Abp.EntityFrameworkCore.Uow.DbContextEfCoreTransactionStrategy.CreateDbContext[TDbContext](String connectionString, IDbContextResolver dbContextResolver)
+   at Abp.EntityFrameworkCore.Uow.EfCoreUnitOfWork.GetOrCreateDbContext[TDbContext](Nullable`1 multiTenancySide, String name)
+   at Abp.EntityFrameworkCore.Uow.UnitOfWorkExtensions.GetDbContext[TDbContext](IActiveUnitOfWork unitOfWork, Nullable`1 multiTenancySide, String name)
+   at Xelat.Project.EntityFrameworkCore.Seed.SeedHelper.WithDbContext[TDbContext](IIocResolver iocResolver, Action`1 contextAction) in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/EntityFrameworkCore/Seed/SeedHelper.cs:line 39
+   at Xelat.Project.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(IIocResolver iocResolver) in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/EntityFrameworkCore/Seed/SeedHelper.cs:line 17
+   at Xelat.Project.EntityFrameworkCore.ProjectEntityFrameworkModule.PostInitialize() in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/EntityFrameworkCore/ProjectEntityFrameworkModule.cs:line 46
+   at Abp.Modules.AbpModuleManager.<>c.<StartModules>b__15_2(AbpModuleInfo module)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Abp.Modules.AbpModuleManager.StartModules()
+   at Abp.AbpBootstrapper.Initialize()
+FATAL 2023-04-13 21:24:18,552 [1    ] Microsoft.AspNetCore.Hosting.Diagnostics - Application startup exception
+System.ArgumentException: Option 'trusted_connection' not supported.
+   at MySqlConnector.MySqlConnectionStringOption.GetOptionForKey(String key) in /_/src/MySqlConnector/MySqlConnectionStringBuilder.cs:line 940
+   at MySqlConnector.MySqlConnectionStringBuilder.set_Item(String key, Object value) in /_/src/MySqlConnector/MySqlConnectionStringBuilder.cs:line 820
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at MySqlConnector.MySqlConnectionStringBuilder..ctor(String connectionString) in /_/src/MySqlConnector/MySqlConnectionStringBuilder.cs:line 29
+   at Microsoft.EntityFrameworkCore.ServerVersion.AutoDetect(String connectionString)
+   at Xelat.Project.EntityFrameworkCore.ProjectDbContextConfigurer.Configure(DbContextOptionsBuilder`1 builder, String connectionString) in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/EntityFrameworkCore/ProjectDbContextConfigurer.cs:line 12
+   at Xelat.Project.EntityFrameworkCore.ProjectEntityFrameworkModule.<>c.<PreInitialize>b__8_0(AbpDbContextConfiguration`1 options) in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/EntityFrameworkCore/ProjectEntityFrameworkModule.cs:line 31
+   at Abp.EntityFrameworkCore.Configuration.AbpDbContextConfigurerAction`1.Configure(AbpDbContextConfiguration`1 configuration)
+   at Abp.EntityFrameworkCore.DefaultDbContextResolver.CreateOptions[TDbContext](String connectionString, DbConnection existingConnection)
+   at Abp.EntityFrameworkCore.DefaultDbContextResolver.Resolve[TDbContext](String connectionString, DbConnection existingConnection)
+   at Abp.EntityFrameworkCore.Uow.DbContextEfCoreTransactionStrategy.CreateDbContext[TDbContext](String connectionString, IDbContextResolver dbContextResolver)
+   at Abp.EntityFrameworkCore.Uow.EfCoreUnitOfWork.GetOrCreateDbContext[TDbContext](Nullable`1 multiTenancySide, String name)
+   at Abp.EntityFrameworkCore.Uow.UnitOfWorkExtensions.GetDbContext[TDbContext](IActiveUnitOfWork unitOfWork, Nullable`1 multiTenancySide, String name)
+   at Xelat.Project.EntityFrameworkCore.Seed.SeedHelper.WithDbContext[TDbContext](IIocResolver iocResolver, Action`1 contextAction) in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/EntityFrameworkCore/Seed/SeedHelper.cs:line 39
+   at Xelat.Project.EntityFrameworkCore.Seed.SeedHelper.SeedHostDb(IIocResolver iocResolver) in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/EntityFrameworkCore/Seed/SeedHelper.cs:line 17
+   at Xelat.Project.EntityFrameworkCore.ProjectEntityFrameworkModule.PostInitialize() in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/EntityFrameworkCore/ProjectEntityFrameworkModule.cs:line 46
+   at Abp.Modules.AbpModuleManager.<>c.<StartModules>b__15_2(AbpModuleInfo module)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at Abp.Modules.AbpModuleManager.StartModules()
+   at Abp.AbpBootstrapper.Initialize()
+   at Abp.AspNetCore.AbpApplicationBuilderExtensions.InitializeAbp(IApplicationBuilder app)
+   at Abp.AspNetCore.AbpApplicationBuilderExtensions.UseAbp(IApplicationBuilder app, Action`1 optionsAction)
+   at Xelat.Project.Web.Host.Startup.Startup.Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerFactory loggerFactory) in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Web.Host/Startup/Startup.cs:line 94
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.Invoke(Object instance, IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.<>c__DisplayClass4_0.<Build>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass15_0.<UseStartup>b__1(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Mvc.Filters.MiddlewareFilterBuilderStartupFilter.<>c__DisplayClass0_0.<Configure>g__MiddlewareFilterBuilder|0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.HostFilteringStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+WARN  2023-04-13 21:24:18,552 [10   ] Abp.BackgroundJobs.BackgroundJobManager  - System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentException: Option 'trusted_connection' not supported.
+   at MySqlConnector.MySqlConnectionStringOption.GetOptionForKey(String key) in /_/src/MySqlConnector/MySqlConnectionStringBuilder.cs:line 940
+   at MySqlConnector.MySqlConnectionStringBuilder.set_Item(String key, Object value) in /_/src/MySqlConnector/MySqlConnectionStringBuilder.cs:line 820
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at MySqlConnector.MySqlConnectionStringBuilder..ctor(String connectionString) in /_/src/MySqlConnector/MySqlConnectionStringBuilder.cs:line 29
+   at Microsoft.EntityFrameworkCore.ServerVersion.AutoDetect(String connectionString)
+   at Xelat.Project.EntityFrameworkCore.ProjectDbContextConfigurer.Configure(DbContextOptionsBuilder`1 builder, String connectionString) in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/EntityFrameworkCore/ProjectDbContextConfigurer.cs:line 12
+   at Xelat.Project.EntityFrameworkCore.ProjectEntityFrameworkModule.<>c.<PreInitialize>b__8_0(AbpDbContextConfiguration`1 options) in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/EntityFrameworkCore/ProjectEntityFrameworkModule.cs:line 31
+   at Abp.EntityFrameworkCore.Configuration.AbpDbContextConfigurerAction`1.Configure(AbpDbContextConfiguration`1 configuration)
+   at Abp.EntityFrameworkCore.DefaultDbContextResolver.CreateOptions[TDbContext](String connectionString, DbConnection existingConnection)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at Abp.EntityFrameworkCore.DefaultDbContextResolver.CreateOptionsForType(Type dbContextType, String connectionString, DbConnection existingConnection)
+   at Abp.EntityFrameworkCore.DefaultDbContextResolver.Resolve[TDbContext](String connectionString, DbConnection existingConnection)
+   at Abp.EntityFrameworkCore.Uow.DbContextEfCoreTransactionStrategy.CreateDbContext[TDbContext](String connectionString, IDbContextResolver dbContextResolver)
+   at Abp.EntityFrameworkCore.Uow.EfCoreUnitOfWork.GetOrCreateDbContext[TDbContext](Nullable`1 multiTenancySide, String name)
+   at Abp.EntityFrameworkCore.Uow.UnitOfWorkExtensions.GetDbContext[TDbContext](IActiveUnitOfWork unitOfWork, Nullable`1 multiTenancySide, String name)
+   at Abp.EntityFrameworkCore.Uow.UnitOfWorkDbContextProvider`1.GetDbContext(Nullable`1 multiTenancySide)
+   at Abp.EntityFrameworkCore.Repositories.EfCoreRepositoryBase`3.GetContext()
+   at Abp.EntityFrameworkCore.Repositories.EfCoreRepositoryBase`3.<GetQueryable>b__7_0(Type key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Abp.EntityFrameworkCore.Repositories.EfCoreRepositoryBase`3.GetQueryable()
+   at Abp.EntityFrameworkCore.Repositories.EfCoreRepositoryBase`3.GetAllIncluding(Expression`1[] propertySelectors)
+   at Abp.EntityFrameworkCore.Repositories.EfCoreRepositoryBase`3.GetAll()
+   at Abp.BackgroundJobs.BackgroundJobStore.<>c__DisplayClass7_0.<GetWaitingJobsAsync>b__0()
+   at Abp.Domain.Uow.UnitOfWorkManagerExtensions.WithUnitOfWork[TResult](IUnitOfWorkManager manager, Func`1 action, UnitOfWorkOptions options)
+   at Abp.BackgroundJobs.BackgroundJobStore.GetWaitingJobsAsync(Int32 maxResultCount)
+   at Abp.BackgroundJobs.BackgroundJobManager.DoWorkAsync()
+   at Abp.Threading.BackgroundWorkers.AsyncPeriodicBackgroundWorkerBase.Timer_Elapsed(AbpAsyncTimer timer)
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentException: Option 'trusted_connection' not supported.
+   at MySqlConnector.MySqlConnectionStringOption.GetOptionForKey(String key) in /_/src/MySqlConnector/MySqlConnectionStringBuilder.cs:line 940
+   at MySqlConnector.MySqlConnectionStringBuilder.set_Item(String key, Object value) in /_/src/MySqlConnector/MySqlConnectionStringBuilder.cs:line 820
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at MySqlConnector.MySqlConnectionStringBuilder..ctor(String connectionString) in /_/src/MySqlConnector/MySqlConnectionStringBuilder.cs:line 29
+   at Microsoft.EntityFrameworkCore.ServerVersion.AutoDetect(String connectionString)
+   at Xelat.Project.EntityFrameworkCore.ProjectDbContextConfigurer.Configure(DbContextOptionsBuilder`1 builder, String connectionString) in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/EntityFrameworkCore/ProjectDbContextConfigurer.cs:line 12
+   at Xelat.Project.EntityFrameworkCore.ProjectEntityFrameworkModule.<>c.<PreInitialize>b__8_0(AbpDbContextConfiguration`1 options) in /Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/EntityFrameworkCore/ProjectEntityFrameworkModule.cs:line 31
+   at Abp.EntityFrameworkCore.Configuration.AbpDbContextConfigurerAction`1.Configure(AbpDbContextConfiguration`1 configuration)
+   at Abp.EntityFrameworkCore.DefaultDbContextResolver.CreateOptions[TDbContext](String connectionString, DbConnection existingConnection)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at Abp.EntityFrameworkCore.DefaultDbContextResolver.CreateOptionsForType(Type dbContextType, String connectionString, DbConnection existingConnection)
+   at Abp.EntityFrameworkCore.DefaultDbContextResolver.Resolve[TDbContext](String connectionString, DbConnection existingConnection)
+   at Abp.EntityFrameworkCore.Uow.DbContextEfCoreTransactionStrategy.CreateDbContext[TDbContext](String connectionString, IDbContextResolver dbContextResolver)
+   at Abp.EntityFrameworkCore.Uow.EfCoreUnitOfWork.GetOrCreateDbContext[TDbContext](Nullable`1 multiTenancySide, String name)
+   at Abp.EntityFrameworkCore.Uow.UnitOfWorkExtensions.GetDbContext[TDbContext](IActiveUnitOfWork unitOfWork, Nullable`1 multiTenancySide, String name)
+   at Abp.EntityFrameworkCore.Uow.UnitOfWorkDbContextProvider`1.GetDbContext(Nullable`1 multiTenancySide)
+   at Abp.EntityFrameworkCore.Repositories.EfCoreRepositoryBase`3.GetContext()
+   at Abp.EntityFrameworkCore.Repositories.EfCoreRepositoryBase`3.<GetQueryable>b__7_0(Type key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Abp.EntityFrameworkCore.Repositories.EfCoreRepositoryBase`3.GetQueryable()
+   at Abp.EntityFrameworkCore.Repositories.EfCoreRepositoryBase`3.GetAllIncluding(Expression`1[] propertySelectors)
+   at Abp.EntityFrameworkCore.Repositories.EfCoreRepositoryBase`3.GetAll()
+   at Abp.BackgroundJobs.BackgroundJobStore.<>c__DisplayClass7_0.<GetWaitingJobsAsync>b__0()
+   at Abp.Domain.Uow.UnitOfWorkManagerExtensions.WithUnitOfWork[TResult](IUnitOfWorkManager manager, Func`1 action, UnitOfWorkOptions options)
+   at Abp.BackgroundJobs.BackgroundJobStore.GetWaitingJobsAsync(Int32 maxResultCount)
+   at Abp.BackgroundJobs.BackgroundJobManager.DoWorkAsync()
+   at Abp.Threading.BackgroundWorkers.AsyncPeriodicBackgroundWorkerBase.Timer_Elapsed(AbpAsyncTimer timer)
