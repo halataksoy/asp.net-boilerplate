@@ -1,0 +1,584 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/test/Xelat.Project.Web.Tests/Xelat.Project.Web.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/Xelat.Project.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/Xelat.Project.Application.csproj",
+        "projectName": "Xelat.Project.Application",
+        "projectPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/Xelat.Project.Application.csproj",
+        "packagesPath": "/Users/echonos/.nuget/packages/",
+        "outputPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/echonos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/Xelat.Project.Core.csproj": {
+                "projectPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/Xelat.Project.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/Xelat.Project.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/Xelat.Project.Core.csproj",
+        "projectName": "Xelat.Project.Core",
+        "projectPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/Xelat.Project.Core.csproj",
+        "packagesPath": "/Users/echonos/.nuget/packages/",
+        "outputPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/echonos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Abp.AutoMapper": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Abp.ZeroCore.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Castle.Windsor.MsDependencyInjection": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/Xelat.Project.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/Xelat.Project.EntityFrameworkCore.csproj",
+        "projectName": "Xelat.Project.EntityFrameworkCore",
+        "projectPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/Xelat.Project.EntityFrameworkCore.csproj",
+        "packagesPath": "/Users/echonos/.nuget/packages/",
+        "outputPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/echonos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/Xelat.Project.Core.csproj": {
+                "projectPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/Xelat.Project.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Web.Core/Xelat.Project.Web.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Web.Core/Xelat.Project.Web.Core.csproj",
+        "projectName": "Xelat.Project.Web.Core",
+        "projectPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Web.Core/Xelat.Project.Web.Core.csproj",
+        "packagesPath": "/Users/echonos/.nuget/packages/",
+        "outputPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Web.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/echonos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/Xelat.Project.Application.csproj": {
+                "projectPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/Xelat.Project.Application.csproj"
+              },
+              "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/Xelat.Project.EntityFrameworkCore.csproj": {
+                "projectPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/Xelat.Project.EntityFrameworkCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Abp.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Abp.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Abp.ZeroCore": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Web.Mvc/Xelat.Project.Web.Mvc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Web.Mvc/Xelat.Project.Web.Mvc.csproj",
+        "projectName": "Xelat.Project.Web.Mvc",
+        "projectPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Web.Mvc/Xelat.Project.Web.Mvc.csproj",
+        "packagesPath": "/Users/echonos/.nuget/packages/",
+        "outputPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Web.Mvc/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/echonos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Web.Core/Xelat.Project.Web.Core.csproj": {
+                "projectPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Web.Core/Xelat.Project.Web.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Abp.Castle.Log4Net": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Abp.HangFire": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Abp.RedisCache": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "BuildBundlerMinifier": {
+              "target": "Package",
+              "version": "[3.2.449, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "PaulMiami.AspNetCore.Mvc.Recaptcha": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/test/Xelat.Project.Tests/Xelat.Project.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/test/Xelat.Project.Tests/Xelat.Project.Tests.csproj",
+        "projectName": "Xelat.Project.Tests",
+        "projectPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/test/Xelat.Project.Tests/Xelat.Project.Tests.csproj",
+        "packagesPath": "/Users/echonos/.nuget/packages/",
+        "outputPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/test/Xelat.Project.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/echonos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/Xelat.Project.Application.csproj": {
+                "projectPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/Xelat.Project.Application.csproj"
+              },
+              "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/Xelat.Project.EntityFrameworkCore.csproj": {
+                "projectPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.EntityFrameworkCore/Xelat.Project.EntityFrameworkCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Abp.TestBase": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Castle.Core": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.extensibility.execution": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/test/Xelat.Project.Web.Tests/Xelat.Project.Web.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/test/Xelat.Project.Web.Tests/Xelat.Project.Web.Tests.csproj",
+        "projectName": "Xelat.Project.Web.Tests",
+        "projectPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/test/Xelat.Project.Web.Tests/Xelat.Project.Web.Tests.csproj",
+        "packagesPath": "/Users/echonos/.nuget/packages/",
+        "outputPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/test/Xelat.Project.Web.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/echonos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Web.Mvc/Xelat.Project.Web.Mvc.csproj": {
+                "projectPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Web.Mvc/Xelat.Project.Web.Mvc.csproj"
+              },
+              "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/test/Xelat.Project.Tests/Xelat.Project.Tests.csproj": {
+                "projectPath": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/test/Xelat.Project.Tests/Xelat.Project.Tests.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Abp.AspNetCore.TestBase": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "AngleSharp": {
+              "target": "Package",
+              "version": "[0.16.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.extensibility.execution": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

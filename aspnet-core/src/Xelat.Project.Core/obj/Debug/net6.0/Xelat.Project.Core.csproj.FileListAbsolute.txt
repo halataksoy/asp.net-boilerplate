@@ -1,0 +1,12 @@
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/bin/Debug/net6.0/Xelat.Project.Core.deps.json
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/bin/Debug/net6.0/Xelat.Project.Core.dll
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/bin/Debug/net6.0/Xelat.Project.Core.pdb
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/obj/Debug/net6.0/Xelat.Project.Core.csproj.AssemblyReference.cache
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/obj/Debug/net6.0/Xelat.Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/obj/Debug/net6.0/Xelat.Project.Core.AssemblyInfoInputs.cache
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/obj/Debug/net6.0/Xelat.Project.Core.AssemblyInfo.cs
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/obj/Debug/net6.0/Xelat.Project.Core.csproj.CoreCompileInputs.cache
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/obj/Debug/net6.0/Xelat.Project.Core.dll
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/obj/Debug/net6.0/refint/Xelat.Project.Core.dll
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/obj/Debug/net6.0/Xelat.Project.Core.pdb
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Core/obj/Debug/net6.0/ref/Xelat.Project.Core.dll

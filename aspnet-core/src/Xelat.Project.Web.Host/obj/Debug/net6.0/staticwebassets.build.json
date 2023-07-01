@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "yiFtS3bWgIauPJj8HII8f+RkQ3mrBfxnXVlQtRkzpYo=",
+  "Source": "Xelat.Project.Web.Host",
+  "BasePath": "_content/Xelat.Project.Web.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Xelat.Project.Web.Host/wwwroot",
+      "Source": "Xelat.Project.Web.Host",
+      "ContentRoot": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Web.Host/wwwroot/",
+      "BasePath": "_content/Xelat.Project.Web.Host",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Web.Host/wwwroot/swagger/ui/abp.js",
+      "SourceId": "Xelat.Project.Web.Host",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Web.Host/wwwroot/",
+      "BasePath": "_content/Xelat.Project.Web.Host",
+      "RelativePath": "swagger/ui/abp.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/swagger/ui/abp.js"
+    },
+    {
+      "Identity": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Web.Host/wwwroot/swagger/ui/abp.swagger.js",
+      "SourceId": "Xelat.Project.Web.Host",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Web.Host/wwwroot/",
+      "BasePath": "_content/Xelat.Project.Web.Host",
+      "RelativePath": "swagger/ui/abp.swagger.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/swagger/ui/abp.swagger.js"
+    }
+  ]
+}

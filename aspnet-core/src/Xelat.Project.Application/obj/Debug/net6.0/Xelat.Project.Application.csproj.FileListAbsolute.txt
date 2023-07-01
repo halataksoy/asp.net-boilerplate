@@ -1,0 +1,17 @@
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/bin/Debug/net6.0/Xelat.Project.Application.deps.json
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/bin/Debug/net6.0/Xelat.Project.Application.dll
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/bin/Debug/net6.0/Xelat.Project.Application.pdb
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/bin/Debug/net6.0/Xelat.Project.Application.xml
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/bin/Debug/net6.0/Xelat.Project.Core.dll
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/bin/Debug/net6.0/Xelat.Project.Core.pdb
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/obj/Debug/net6.0/Xelat.Project.Application.csproj.AssemblyReference.cache
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/obj/Debug/net6.0/Xelat.Project.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/obj/Debug/net6.0/Xelat.Project.Application.AssemblyInfoInputs.cache
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/obj/Debug/net6.0/Xelat.Project.Application.AssemblyInfo.cs
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/obj/Debug/net6.0/Xelat.Project.Application.csproj.CoreCompileInputs.cache
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/obj/Debug/net6.0/Xelat.Project.Application.csproj.CopyComplete
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/obj/Debug/net6.0/Xelat.Project.Application.dll
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/obj/Debug/net6.0/refint/Xelat.Project.Application.dll
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/obj/Debug/net6.0/Xelat.Project.Application.xml
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/obj/Debug/net6.0/Xelat.Project.Application.pdb
+/Users/echonos/Desktop/Project/7.3.0 2/aspnet-core/src/Xelat.Project.Application/obj/Debug/net6.0/ref/Xelat.Project.Application.dll
